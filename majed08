@@ -1,28 +1,28 @@
-                    GNU GENERAL PUBLIC LICENSE
-                       Version 3, 29 June 2007
+         مجوز عمومی عمومی         
+         نسخه       3، 29       ژوئن       2007   
 
- Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
- Everyone is permitted to copy and distribute verbatim copies
- of this license document, but changing it is not allowed.
+     کپی رایت     (سی) 2007 آزاد نرم افزار بنیاد,  شرکت. <https://fsf.org/>
+       همه اجازه کپی و توزیع نسخه های شفا را دارند     
+       از این سند مجوز، اما تغییر آن مجاز نیست.     
 
-                            Preamble
+       پیش       
 
-  The GNU General Public License is a free, copyleft license for
-software and other kinds of works.
+       مجوز عمومی گنو یک مجوز رایگان و برای آن است       
+نرم افزار و انواع دیگر از کارها.
 
-  The licenses for most software and other practical works are designed
-to take away your freedom to share and change the works.  By contrast,
-the GNU General Public License is intended to guarantee your freedom to
-share and change all versions of a program--to make sure it remains free
-software for all its users.  We, the Free Software Foundation, use the
-GNU General Public License for most of our software; it applies also to
-any other work released this way by its authors.  You can apply it to
-your programs, too.
+      مجوز بیشتر نرم افزار و دیگر کارهای کاربردی طراحی شده است      
+برای از دست دادن آزادی خود برای به اشتراک گذاشتن و تغییر کارها. در مقابل،
+مجوز عمومی گنو قرار است که آزادی شما را تضمین کند
+به اشتراک گذاری و تغییر تمام نسخه های یک برنامه - برای اطمینان از اینکه آزاد باقی مانده است
+نرم افزار برای همهٔ کاربران. ما، بنیاد نرم افزار آزاد، از آن استفاده می کنیم
+مجوز عمومی گنو برای بیشتر نرم افزار ما هم وجود دارد.
+ هر چیزی دیگری کار آزاد شد این راه   by its   نویسندگان .   تو می تواند درخواست کنید   it   تا 
+تو برنامه,  همچنین.
 
-  When we speak of free software, we are referring to freedom, not
-price.  Our General Public Licenses are designed to make sure that you
-have the freedom to distribute copies of free software (and charge for
-them if you wish), that you receive source code or can get it if you
+   وقتی ما حرف می زند  of  آزاد نرم افزار ,   ما  are اشاره کرد تا آزادی ,   نه
+قیمت .   ما ژنرال عمومی مجوز are طراحی شده تا درست کن مطمئن باشید که تو
+have the آزادی تا توزیع کپی of آزاد نرم افزار (و اتهام زیرا
+آن ها اگر تو آرزو),  که تو دریافت منبع کد یا می تواند بیا it اگر تو
 want it, that you can change the software or use pieces of it in new
 free programs, and that you know you can do these things.
 
